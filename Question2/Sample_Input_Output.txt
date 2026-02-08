@@ -1,0 +1,26 @@
+Menu:
+1. Say Hello
+2. Skip next part
+3. Exit
+Enter choice: 1
+Greetings, User!
+
+Menu:
+1. Say Hello
+2. Skip next part
+3. Exit
+Enter choice: 2
+Skipping...
+
+Menu:
+1. Say Hello
+2. Skip next part
+3. Exit
+Enter choice: 5
+Invalid choice.
+
+Menu:
+1. Say Hello
+2. Skip next part
+3. Exit
+Enter choice: 3
