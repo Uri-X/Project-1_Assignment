@@ -1,0 +1,18 @@
+
+Explanation:
+In C programming, we see realword applications in Linux and Windows in Operating systems.
+Its power is in low-level memory access and high performance output.
+
+The difference between syntax errors and semantic errors is that syntax errors occur when the code violates the rules of the programming language, 
+such as missing semicolons or mismatched parentheses while Semantic errors are erros that occur when the code is syntactically correct but does not produce the intended result,
+ such as using the wrong variable or performing incorrect calculations.
+
+C goes through 4 compilation stages: Preprocessing, Compilation, Assembly, and Linking.
+Compilation Stages:
+1 is Preprocessing: Handles #include and macros. Output: .i (expanded source).
+
+2 is Compilation: Translates C to Assembly. Output: .s (assembly code).
+
+3 is Assembly: Translates assembly to machine code. Output: .o or .obj (object file).
+
+Linking: Combines object files and libraries. Output: .exe (executable).
