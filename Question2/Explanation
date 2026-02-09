@@ -1,2 +1,0 @@
-The program in Q2.c uses a while infinite loop to keep the menu active. switch handles user input, while break provides a clean exit strategy. 
-continue allows the program to jump back to the start of the loop, bypassing specific logic.

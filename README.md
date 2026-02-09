@@ -22,8 +22,8 @@ Each question is implemented in separate source files, with explanations provide
 │   └── explanation.txt
 ├── question4/
 │   ├── embedded_system.c
-│   ├── block_diagram.png
-│   └── explanation.txt
+│   ├── block diagram.png
+│   └── explanation.txtBlock diagram.png
 └── README.md
 ```
 

@@ -1,5 +1,0 @@
-The code in Q3.c is a program that uses more than one function and it includes a recursive one.
-It has a base case and recursive call and can be resued. It is a fuction of factorial.
-
-One of the advantages of recursion is that it has clean and lean code, which makes it effective for mathematical sequences.
-On the contrary, one limitation it has is that is uses more memory and this can lead to stack overflow especailly when the base case is missing.

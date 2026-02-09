@@ -1,4 +1,0 @@
-In a real-world system like a smart watch; it has components like Sensors ( to pick on heart rate, accelerometer), Controller (microcontroller) and Actuators which show display, vibration motor. 
-That makes it run on limited power, memory, and CPU, so that it can be efficient.
-Inside it, the control flow determines when and what the watch does. It uses the If-statements to check if the temperatures are too high and loops to continuously read sensor data.
-It has several functions that break the system into small, manageable tasks, which make the code easier to understand and manatain.
